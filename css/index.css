@@ -1,0 +1,39 @@
+body{
+    background-color: #000000;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section{
+    background-color: #ef7a03;
+    width: 80%;
+    height: 1300px;
+    align-items: center;
+    margin-top: 100px;
+    border-radius: 90px;
+}
+.whatsapp{
+    height: 15%;
+    justify-content: center;  
+    margin top: 100px;
+}
+.instagram{
+    height: 15%;
+    justify-content: center;
+    margin top: 0%;
+}
+.logo{
+    height: 25%;
+    margin-bottom: 500px;
+    margin-left: 250px;
+}
+article{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+    color: #000000;
+    align-items: center;
+    height: max-content;
+}
